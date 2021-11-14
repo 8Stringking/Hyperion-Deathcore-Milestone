@@ -51,3 +51,8 @@ nav a:hover {
 hr {
     border-top: 1px solid #fff;
 }
+
+section {
+    color: #ffffff;
+    text-align: center;
+}
