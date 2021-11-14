@@ -44,20 +44,24 @@ nav a:hover {
 
 .logo-image{
     width: 46px;
-    height: 46px;
+    height: 30px;
     border-radius: 50%;
     overflow: hidden;
     margin-top: -6px;
 }
 
 hr {
-    border-top: 0.5px solid #fff;
+    border-top: 0.2px solid #fff;
     margin-left: 20px;
     margin-right: 20px;
 }
 
 section {
     color: #ffffff;
+    text-align: center;
+}
+
+p {
     text-align: center;
 }
 
@@ -68,3 +72,29 @@ section {
 
 
 
+.new-artwork{
+    height: 700px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*social links in footer*/
+footer {
+    height: 150px;
+}
+
+.social-links{
+    text-align: center;
+}
+
+.social-links li{
+    display: inline;
+}
+
+.social-links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
+}
