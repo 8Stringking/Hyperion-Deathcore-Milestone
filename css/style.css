@@ -19,7 +19,8 @@ nav ul {
 
 nav li {
     font-size: 1.2em;
-    line-height: 30px;
+    letter-spacing: 4px;
+    line-height: 20px;
     height: 30px;
     display: inline-block;
     margin: 2.5%;
@@ -41,18 +42,29 @@ nav a:hover {
     border-bottom: 1px solid #ffffff;
 }
 
-.logo-image {
+.logo-image{
     width: 46px;
-    height: 20px;
+    height: 46px;
+    border-radius: 50%;
     overflow: hidden;
-    margin-top: 0px;
+    margin-top: -6px;
 }
 
 hr {
-    border-top: 1px solid #fff;
+    border-top: 0.5px solid #fff;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 section {
     color: #ffffff;
     text-align: center;
 }
+
+/*youtube links for home page*/
+.youtube {
+    display: inline-block;
+}
+
+
+
