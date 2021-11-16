@@ -103,11 +103,11 @@ footer {
     height: 150px;
 }
 
-.social-links{
+.social-links {
     text-align: center;
 }
 
-.social-links li{
+.social-links li {
     display: inline;
 }
 
@@ -118,11 +118,10 @@ footer {
     color: #ffffff;
 }
 
+/* code for styling the gallery photos*/
 .gallery-photos { 
-    display: inline;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0px;
+    display: inline-block;
+   
    
 }
 
