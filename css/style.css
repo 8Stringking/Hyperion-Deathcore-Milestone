@@ -112,7 +112,7 @@ footer {
 }
 
 .social-links i {
-    font-size: 160%;
+    font-size: large;
     margin: 1%;
     padding: 5%;
     color: #ffffff;
@@ -127,7 +127,8 @@ footer {
 
 /*image for tours section*/
 .concert {
-    opacity: 0.5;
+    width: 80%;
+    opacity: 0.1;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
