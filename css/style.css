@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 body {
     margin: 0;
@@ -53,7 +54,7 @@ nav a:hover {
     animation-fill-mode: forwards;
 }
 
-/* Creates the level of zoom for hero image */
+/* Creates the level of zoom for header logo image */
 @keyframes hero-zoom {
     from{
         transform: scale(1);
@@ -62,13 +63,13 @@ nav a:hover {
         transform: scale(1.1);
     }
 }
-
+/*for page styling across all pages*/
 hr {
     border-top: 0.2px solid #808080;
     margin-left: 20px;
     margin-right: 20px;
 }
-
+/*styling for text across all pages*/
 section {
     color: #ffffff;
     text-align: center;
@@ -84,18 +85,20 @@ p {
 }
 
 
-
-.new-artwork{
+/*styling for new Hyperion artwork/logo*/
+.new-artwork {
     height: 500px;
     width: 80%;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-
+    }
+/*styling for header across all pages*/
 h1, h2 {
+    font-family: 'Cinzel', serif;
+    color: darkgrey;
     text-align: center;
     letter-spacing: 4px;
-    color: #ff0000;
+    
 }
 
 /*social links in footer*/
@@ -112,24 +115,59 @@ footer {
 }
 
 .social-links i {
-    font-size: large;
+    font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #ffffff;
 }
 
 /* code for styling the gallery photos*/
-.gallery-photos { 
+.gallery-photos {
+    width:50%;
+    height: 50%; 
     display: inline-block;
-   
-   
+    position: relative; 
 }
 
 /*image for tours section*/
-.concert {
-    width: 80%;
-    opacity: 0.1;
-    background-position: center;
+.container {
+    width: 100%;
+    opacity: 1;
     background-repeat: no-repeat;
-    background-size: cover;
+    position: relative;
+    text-align: center;
+
+}
+/*text for tour sections*/
+.tour-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 5px;
+    line-height: 60px;
+}
+
+/* all styling for booking information page*/
+
+
+
+
+  
+
+
+
+
+/*Fall of the city states page*/
+.tracks{
+    text-align: center;
+    position: center;
+}
+
+.toxic {
+    height: 500px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    margin: 40px;
+
 }
