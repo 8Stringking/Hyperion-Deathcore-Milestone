@@ -20,7 +20,7 @@ nav ul {
 
 nav li {
     font-size: 1.2em;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
     line-height: 20px;
     height: 30px;
     display: inline-block;
@@ -133,7 +133,7 @@ footer {
 /*image for tours section*/
 .container {
     width: 100%;
-    opacity: 1;
+    opacity: 0.5;
     margin: 50px 0;
     background-repeat: no-repeat;
     position: relative;
@@ -197,11 +197,6 @@ input[type=text], label {
     margin: 15px;
 }
 
-  
-
-
-
-
 /*Fall of the city states page*/
 .tracks{
     text-align: center;
@@ -213,5 +208,4 @@ input[type=text], label {
     width: 1000px;
     background-repeat: no-repeat;
     margin: 40px;
-
 }
