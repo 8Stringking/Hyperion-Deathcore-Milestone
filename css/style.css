@@ -25,6 +25,7 @@ nav li {
     height: 30px;
     display: inline-block;
     margin: 2.5%;
+    text-transform: uppercase;
 }
 
 nav a {
@@ -65,7 +66,7 @@ nav a:hover {
 }
 /*for page styling across all pages*/
 hr {
-    border-top: 0.2px solid #808080;
+    border-top: 0.2px solid grey;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -190,7 +191,11 @@ input[type=text], label {
 }
 
 /*styling for merch page and it's images*/
-
+.merch {
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+}
 
   
 
