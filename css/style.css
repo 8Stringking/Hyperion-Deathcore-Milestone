@@ -131,7 +131,7 @@ footer {
 /*image for tours section*/
 .container {
     width: 100%;
-    opacity: 0.5;
+    opacity: 1;
     margin: 50px 0;
     background-repeat: no-repeat;
     position: relative;
@@ -139,8 +139,8 @@ footer {
 
 }
 /*text for tour sections*/
-.tour-text{
-    color: #ffffff;
+.tour-text {
+    color: #fff;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -163,10 +163,6 @@ footer {
     position: absolute;
     left: 10%;
     padding: 30px;
-}
-
-.email, .phone {
-    background: transparent;
 }
 
 .book-button{
