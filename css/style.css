@@ -150,17 +150,19 @@ footer {
 }
 
 /* all styling for booking information page*/
-input[type=text], label {
-    color: #ffffff;
+.booking-section {
     clear: left;
-    width: 20%;
-    padding: 12px 10px;
-    margin: 4px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-    box-sizing: border-box;
-    background: transparent;
+    height: 900px;
+}
+
+.booking-form {
+    margin-top: 150px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
 }
 
 .email, .phone {
@@ -180,13 +182,13 @@ input[type=text], label {
 }
 
 .book-button:hover{
-    background-color: #fafafa;
-    color: #f16c6b;
+    background-color: red;
+    color: black;
 }
 
 .gold-logo {
-    height:300px;
-    width: 600px;
+    height:250px;
+    width: 500px;
     background-repeat: no-repeat;
 }
 
