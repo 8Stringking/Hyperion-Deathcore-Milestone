@@ -92,6 +92,7 @@ p {
     margin-top: 10px;
     margin-bottom: 10px;
     }
+
 /*styling for header across all pages*/
 h1, h2 {
     font-family: 'Cinzel', serif;
@@ -151,42 +152,60 @@ footer {
 
 /* all styling for booking information page*/
 .booking-section {
-    clear: left;
-    height: 900px;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+    align-content: center;
+    background: url(images/bonus-detailed-art-blood-min.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;   
 }
 
 .booking-form {
-    margin-top: 150px;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    padding: 30px;
+    position: relative;
+    padding: 50px;
+   }
+
+/*to allow the form to be spread horizontally to minimise scrolling*/
+.column {
+    column-count: 2;
 }
 
+label, input {
+    display: grid;
+    margin-bottom: 5px;
+}
+
+label {
+    width: 150px;
+    padding-left: 20px;
+}
+
+input {
+       background-color: black;
+       color: #fff;
+}
+
+/*styling for book button including a hover feature with a color change*/
 .book-button{
-    margin-left: 550px;
+    margin-left: 0px;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-family: 'Cinzel', serif;
     font-size: 100%;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #000000;
+    color: #ff0000;
     display: block;
 }
 
-.book-button:hover{
-    background-color: red;
-    color: black;
+.book-button:hover {
+    background-color: #ffffff;
+    color: #ff0000;
 }
 
-.gold-logo {
-    height:250px;
-    width: 500px;
-    background-repeat: no-repeat;
-}
 
 /*styling for merch page and it's images*/
 .merch {
