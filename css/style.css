@@ -256,13 +256,33 @@ input {
     }
 }
 
+/* For large to medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    .img-fluid {
+        width: 65%;
+        height: 200px;
+        margin: 0 auto;
+    }
 
+    .nibiru {
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+    }
 
+    .new-artwork {
+        width: 70%;
+    }
 
-
-
-
-
+    .gallery-photos {
+        width: 80%;
+        height: auto;
+    }
+    
+    .booking-section .column {
+        width: 80%;
+    }
+}
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 360px) {
