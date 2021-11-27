@@ -45,8 +45,7 @@ nav a:hover {
 }
 
 .logo-image img{
-    width: 700px;
-    height: 200px;
+    width: 60%;
     border-radius: 50%;
     overflow: hidden;
     margin-top: -6px;
@@ -57,19 +56,21 @@ nav a:hover {
 
 /* Creates the level of zoom for header logo image */
 @keyframes hero-zoom {
-    from{
+    from {
         transform: scale(1);
     }
     to{
         transform: scale(1.1);
     }
 }
+
 /*for page styling across all pages*/
 hr {
     border-top: 0.2px solid grey;
     margin-left: 20px;
     margin-right: 20px;
 }
+
 /*styling for text across all pages*/
 section {
     color: #ffffff;
@@ -87,11 +88,10 @@ p {
 
 /*styling for new Hyperion artwork/logo*/
 .new-artwork {
-    height: 500px;
     width: 80%;
     margin-top: 10px;
     margin-bottom: 10px;
-    }
+}
 
 /*styling for header across all pages*/
 h1, h2 {
@@ -123,8 +123,7 @@ footer {
 
 /* code for styling the gallery photos*/
 .gallery-photos {
-    width:50%;
-    height: 50%; 
+    width:40%;
     display: inline-block;
     position: relative; 
 }
@@ -147,7 +146,7 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
     letter-spacing: 5px;
-    line-height: 60px;
+    line-height: 50px;
 }
 
 /* all styling for booking information page*/
@@ -159,14 +158,15 @@ footer {
     background: url(images/bonus-detailed-art-blood-min.jpg);
     background-size: cover;
     background-position: center;
-    height: 600px;   
+    margin-left: 8%;
+    width: 80%;   
 }
 
 .booking-form {
     color: #fff;
     position: relative;
     padding: 50px;
-   }
+}
 
 /*to allow the form to be spread horizontally to minimise scrolling*/
 .column {
@@ -221,8 +221,83 @@ input {
 }
 
 .toxic {
-    height: 500px;
-    width: 1000px;
+    width: 80%;
     background-repeat: no-repeat;
     margin: 40px;
+}
+
+/*this section is all for media queries to make each page responsive to different devices*/
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    .img-fluid {
+        width: 65%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .nibiru {
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .new-artwork {
+        width: 70%;
+    }
+
+    .gallery-photos {
+        width: 80%;
+        height: auto;
+    }
+    
+    .booking-section .column {
+        width: 80%;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 360px) {
+    /*home page responsive styling*/
+.img-fluid {
+    width: 65%;
+    margin: 0 auto;
+    height: auto;
+    }
+
+.nibiru {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    }   
+
+.new-artwork {
+    width: 70%;
+    height: auto;
+    }
+
+.container {
+    height: auto;
+    }
+
+
+
+
+
+
+
+    /*tours page responsive styling for text*/
+.tour-text {
+    height: auto;
+    line-height: 5px;   
+    }
+
 }
