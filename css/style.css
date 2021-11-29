@@ -79,6 +79,8 @@ section {
 
 p {
     text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 /*youtube links for home page*/
@@ -103,7 +105,11 @@ h1, h2 {
 
 /*social links in footer*/
 footer {
-    height: 150px;
+    height: 50px;
+}
+
+footer a:hover {
+    color: #ff0000;
 }
 
 .social-links {
@@ -165,11 +171,12 @@ footer {
 .booking-form {
     color: #fff;
     position: relative;
-    padding: 50px;
 }
 
 /*to allow the form to be spread horizontally to minimise scrolling*/
 .column {
+    padding-top: 20px;
+    padding-bottom: 20px;
     column-count: 2;
 }
 
