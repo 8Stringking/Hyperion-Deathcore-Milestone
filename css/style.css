@@ -77,10 +77,10 @@ section {
     text-align: center;
 }
 
-p {
+.intro-text {
     text-align: center;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 /*youtube links for home page*/
@@ -105,11 +105,7 @@ h1, h2 {
 
 /*social links in footer*/
 footer {
-    height: 50px;
-}
-
-footer a:hover {
-    color: #ff0000;
+    height: 20px;
 }
 
 .social-links {
@@ -125,6 +121,10 @@ footer a:hover {
     margin: 1%;
     padding: 5%;
     color: #ffffff;
+}
+
+.social-links a:hover {
+    color: #ff0000;
 }
 
 /* code for styling the gallery photos*/
