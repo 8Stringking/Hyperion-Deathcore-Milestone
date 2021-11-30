@@ -37,6 +37,7 @@ nav a {
 nav a:hover {
     background-color: black;
     color: #ff0000;
+    text-shadow: yellow 1px;
 }
 
 /* css styling for page indication for the user*/
@@ -79,8 +80,8 @@ section {
 
 .intro-text {
     text-align: center;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /*youtube links for home page*/
@@ -105,7 +106,7 @@ h1, h2 {
 
 /*social links in footer*/
 footer {
-    height: 50px;
+    height: 100px;
 }
 
 .social-links {
@@ -117,22 +118,27 @@ footer {
 }
 
 .social-links i {
-    font-size: 200%;
+    font-size: 250%;
     margin: 1%;
     padding: 5%;
     color: #ffffff;
 }
 
-.social-links:hover {
-    background-color: #ffffff;
+.social-links a:hover {
+    background-color: black;
     color: #ff0000;
 }
 
 /* code for styling the gallery photos*/
 .gallery-photos {
+    clear:both;
     width:40%;
     display: inline-block;
     position: relative; 
+}
+
+.gallery-photos img {
+    width: 100%;
 }
 
 /*image for tours section*/
@@ -166,7 +172,7 @@ footer {
     background-size: cover;
     background-position: center;
     margin-left: 8%;
-    width: 80%;   
+    max-width: 80%;   
 }
 
 .booking-form {
@@ -283,49 +289,62 @@ input {
     }
 
     .gallery-photos {
-        width: 80%;
-        height: auto;
+        max-width: 80%;
+        margin-left: 1%;
+        margin-right: 1%;
     }
     
     .booking-section .column {
         width: 80%;
+        margin-left: 1%;
+        margin-right: 1%;
     }
 }
 
-/* For small screens sizes from 800px wide and down */
+/* For small screens sizes from 360px wide and down */
 @media screen and (max-width: 360px) {
     /*home page responsive styling*/
-.img-fluid {
-    width: 65%;
-    margin: 0 auto;
-    height: auto;
+    .img-fluid {
+        width: 65%;
+        margin: 0 auto;
+        height: auto;
     }
 
-.nibiru {
-    width: 80%;
-    height: auto;
-    margin: 0 auto;
+    .nibiru {
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
     }   
 
-.new-artwork {
-    width: 70%;
-    height: auto;
+    .new-artwork {
+        width: 70%;
+        height: auto;
     }
 
-.container {
-    height: auto;
+    .container {
+        height: auto;
     }
 
-
-
-
-
-
-
-    /*tours page responsive styling for text*/
-.tour-text {
-    height: auto;
-    line-height: 5px;   
+    .gallery-photos {
+        max-width: 80%;
+        margin-left: 1%;
+        margin-right: 1%;
     }
 
+    .booking-section .column{
+        width: 80%;
+        position: center;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+
+    .tour-text {
+        line-height: 1px;
+        margin: 20px;
+    }
 }
+
+
+       
+    
+
