@@ -154,14 +154,20 @@ footer {
 
 }
 /*text for tour sections*/
-.tour-text {
-    color: #fff;
+.text-block {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    letter-spacing: 5px;
-    line-height: 30px;
+    top: 5%;
+    bottom: 30%;
+    right: 22%;
+    left: 22%;
+    background-color: black 0.2;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    line-height: 40px;
+    
+    
 }
 
 /* all styling for booking information page*/
