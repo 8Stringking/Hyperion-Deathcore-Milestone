@@ -19,7 +19,7 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
 <ol>
     <li>User Experience</li>
     <ul>
-        <li>[What this project is and why]</li>
+        <li>What this project is and why</li>
         <li>Target audience</li>
         <li>What the fans can expect/Web Design</li>
         <li>Wire frames</li>
@@ -72,4 +72,11 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
 <p>The site contains two forms of clickable links. These are for the merch sites, using pictures for links as we know the target audience will recognise these famous logos and can choose where to get their merch from, this is an important part of driving the sales of merch. These days we know that people dont tend to spend too long viewing anything online at a time so by using these logos helps people make their choice faster and making their experience even better. The second is obviously the social media links, which weve used icons that will load up in seperate tabs so the user can stay where they are on the site.</p>
 <hr>
 <h1>Methods for creating the site (html5 css etc)</h1>
-<p></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTML">HTML5</a> (was used for structuring and presenting content of the website)</li>
+<li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a> (used for the styling of the content)</li>
+<li><a href="https://fonts.google.com/">Google Fonts</a> (used for all the font styling within the project, fonts used were Cinzel, and Cinzel decorative with serif used for a backup)</li>
+<li><a href="https://www.bootstrapcdn.com/">Bootstrap</a> (used for the responsive code in the header for multiple devices)</li>
+<li><a href="https://fontawesome.com/">Font Awesome</a> (used for the social media icons)</li>
+<li><a href="https://www.w3schools.com/">W3schools</a> (this was used for the coding of the booking form into two columns)</li>
+</ul>

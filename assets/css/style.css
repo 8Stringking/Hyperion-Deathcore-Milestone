@@ -37,6 +37,7 @@ nav a {
 nav a:hover {
     background-color: black;
     color: #ff0000;
+    text-shadow: 5px 5px 5px #ffffff;
 }
 
 /* css styling for page indication for the user*/
@@ -67,7 +68,7 @@ nav a:hover {
 
 /*for page styling across all pages*/
 hr {
-    border-top: 0.2px solid grey;
+    border-top: rgb(88, 88, 88) 0.2px solid;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -99,7 +100,7 @@ section {
 /*styling for header across all pages*/
 h1, h2 {
     font-family: 'Cinzel', serif;
-    color: darkgrey;
+    color: lightgrey;
     text-align: center;
     letter-spacing: 4px;
 }
@@ -143,10 +144,12 @@ footer {
 
 /*image for tours section*/
 .container {
+    clear: both;
     width: 80%;
     opacity: 1;
     margin: 50px 0;
     background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
     text-align: center;
 
@@ -155,7 +158,7 @@ footer {
 .text-block {
     position: absolute;
     top: 5%;
-    bottom: 30%;
+    bottom: 5%;
     right: 22%;
     left: 22%;
     background-color: black 0.2;
@@ -163,7 +166,7 @@ footer {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    line-height: 40px;
+    line-height: 50px;
     
     
 }
