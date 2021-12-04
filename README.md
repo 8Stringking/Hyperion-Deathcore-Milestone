@@ -1,5 +1,5 @@
 <div>
-<img src="css/images/cropped-cold-logo-min.jpg" width="50%">
+<img src="assets/css/images/cropped-cold-logo-min.jpg" width="50%">
 </div>
 
 Welcome! to the Hyperion Uk Deathcore website! In this website we will shocase all of our previous releases, such as The Nibiru Cataclysm and showcase all our future upcoming material such as The Fall Of The City States, and more to come in the future. Also this will be the place where you the fans can see even more material first! such as playthrough videos of certain aspects of the band, and gain a key insight into how we make our records what they are, and even show you how we make and mix our songs including STL Tonehub Presets!
@@ -45,8 +45,8 @@ Pics of live site!
 <hr>
 <h1>Wire Frames/Final Images</h1>
 <div>
-    <img src="css/images/wireframe-bundle-1.jpg" width=40%>
-    <img src="css/images/wireframe-bundle-2.jpg" width=40%>
+    <img src="assets/wireframes/wireframe-bundle-1.jpg" width=40%>
+    <img src="assets/wireframes/wireframe-bundle-2.jpg" width=40%>
 </div>
 <hr>
 <h1>Accessibility for EVERYONE</h1>

@@ -177,7 +177,10 @@ footer {
     margin-left: 8%;
     margin-top: 10%;
     max-width: 80%; 
-    background-image: url(/assets/css/images/bonus-detailed-art-blood-min.jpg);  
+    background-image: url(/assets/css/images/bonus-detailed-art-blood-min.jpg); 
+    max-width: 80%; 
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     margin-top: 1px;
 }
@@ -185,13 +188,6 @@ footer {
 .booking-form {
     color: #fff;
     position: relative;
-}
-
-.booking-pic {
-    max-width: 80%;
-    background-repeat: no-repeat;
-    background-position: center;
-    
 }
 
 /*to allow the form to be spread horizontally to minimise scrolling*/
