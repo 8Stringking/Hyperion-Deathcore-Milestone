@@ -6,21 +6,23 @@ Welcome! to the Hyperion Uk Deathcore website! In this website we will shocase a
 
 The overall aim of this project is to promote and showcase our material to our fans and fans of Heavy Deathcore all around the world! While giving the fans the opportunity to see content here first, before being released on social media, and also show that the South-West is still a great source of Deathcore bands. 
 
-The live website can be found here
+The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%2F8stringking.github.io%2FHyperion-Deathcore-Milestone%2F%3Ffbclid%3DIwAR14g6Y19lFZr20xzSli8VMOh-A9xMNTPTwoWbKOciMp0W2pY9M9J_AZq2s&h=AT2p7oU_AcW1i5Bs2j2DgakgIjVLB4J8VrF86WpSYNOv1xhVZ46n_Xs6H91KGmdzbkJOJEkbnU9OmN6zaZVJR5vFOlF8C3SaW1uOsAoF8rr8N-4FHvj-exAFocsn9LVmt7YP533lTjpSLquzrqU)
 
-
-Pics of live site!
-
-
-
+<h2>Live Site Images</h2>
+<div>
+<img src="assets/css/images/multi-devicecapture.jpg" width=40%>
+<img src="assets/css/images/pc-capture.jpg" width=50%>
+<img src="assets/css/images/gallery-bundle.jpg" width=40%>
+<img src="assets/css/images/live-site-footer.jpg" width=50%>
+</div>
 <h1>Index</h1>
 <ol>
     <li>User Experience</li>
     <ul>
-        <li>What this project is and why</li>
+        <li>[What this project is and why]</li>
         <li>Target audience</li>
         <li>What the fans can expect/Web Design</li>
-        <li>Wire frames + final images</li>
+        <li>Wire frames</li>
         <li>Accessibility for everyone (visual readers etc)</li>
     </ul>
     <li>Website features</li>
@@ -43,11 +45,31 @@ Pics of live site!
 <hr>
 <p>The Fans can expect a dark, simple, easy to navigate website packed full of all of our content in one place. No more scrolling through albums on facebook, or never ending scrolling on instagram, its all here and simple to navigate from page to page with a Navigation bar that we believe is stylish and is slightly bigger than your average to give the user the ease of accessing everything instantly. They can also expect UN-RELEASED previews of our next EP 'Fall of the city states', bands dont typically do this, however we believe that the ability to listen to new songs not released anywhere else is a VITAL part of drawing new fans to us and the website and incredibly exciting for fans also.</p>
 <hr>
-<h1>Wire Frames/Final Images</h1>
+<h1>Wire Frames</h1>
 <div>
-    <img src="assets/wireframes/wireframe-bundle-1.jpg" width=40%>
-    <img src="assets/wireframes/wireframe-bundle-2.jpg" width=40%>
+    <img src="assets/wireframes/index-home-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/gallery-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/tours-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/merch-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/booking-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/nibiru-wireframe.jpeg" width=30%>
+    <img src="assets/wireframes/citystates-wireframe.jpeg" width=30%>
+    <img src="assets/css/images/space-logo-min.jpg" width=50%>
 </div>
+    <div>
+    <p>As you can see from the wireframes in the planning stage, the end result is pretty close, and the only reason this happened is due to the overall visual aspect of the page once I started coding the project. These changes were the track previews on the homepage, and the hyperion artwork, I didnt think it made sense having the track previews at the bottom below artwork and thought it was more user friendly to have the artwork almost act as a sub footer. Other than this i was really happy to be able to keep everything as is.
+    </p>
+    </div>
 <hr>
 <h1>Accessibility for EVERYONE</h1>
 <p>In keeping with the values of the Metal community as a whole, and Hyperions own values. We have made sure in the creation of this website we include everyones needs, which is why our website can be read by visual screen readers for our fans that are visually impaired to make sure no one is left out.</p>
+<hr>
+<h1>Website Features</h1>
+<p>The Hyperion website includes a few features including, an animated nav bar, links directly for youtube videos, a fully functional form section, functional audio players for all new tracks and links to merch stores and the bands facebook and youtube channels. Unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.</p>
+<p>The youtube links are done as such that they will play on the same webpage so that they can keep scrolling along that page as they listen to music (facebook/instagram/youtube currently cannot support this function) and the user can immerse themselves within all content on that page</p>
+<p>The form section is alot more detailed than most, this is mainly due to in my 10 years playing in bands, and booking shows, this is the minimal information needed for a reliable booking, however we have made sure this is even more accurate by adding a clendar, and a clock for dates and times, and made sure it is viewable on all devices</p>
+<p>Audio players are used throughout the site with the ability to scroll within a track, this has been done for releasing unreleased content, especially if you want to re-listen to a particular section within a song, and again so the user can continue to scroll within that page while listening to our tracks</p>
+<p>The site contains two forms of clickable links. These are for the merch sites, using pictures for links as we know the target audience will recognise these famous logos and can choose where to get their merch from, this is an important part of driving the sales of merch. These days we know that people dont tend to spend too long viewing anything online at a time so by using these logos helps people make their choice faster and making their experience even better. The second is obviously the social media links, which weve used icons that will load up in seperate tabs so the user can stay where they are on the site.</p>
+<hr>
+<h1>Methods for creating the site (html5 css etc)</h1>
+<p></p>
