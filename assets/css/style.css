@@ -44,7 +44,7 @@ nav a:hover {
 .active {
     border-bottom: 1px solid #ff0000;
 }
-
+/*header logo image styling*/
 .logo-image img{
     width: 60%;
     height: auto;
@@ -78,7 +78,7 @@ section {
     color: #ffffff;
     text-align: center;
 }
-
+/*styling for first text on home page*/
 .intro-text {
     text-align: center;
     margin-left: 10%;
@@ -88,6 +88,8 @@ section {
 /*youtube links for home page*/
 .youtube {
     display: inline-block;
+    width: 300px;
+    height: 350px;
 }
 
 /*styling for new Hyperion artwork/logo*/
@@ -152,23 +154,19 @@ footer {
     background-size: cover;
     position: relative;
     text-align: center;
-
 }
+
 /*text for tour sections*/
 .text-block {
     position: absolute;
+    width: 80%;
     top: 5%;
     bottom: 5%;
     right: 22%;
     left: 22%;
-    background-color: black 0.2;
+    background-color: rgba(0, 0, 0, 0.1);
     color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    line-height: 50px;
-    
-    
+    line-height: 50px; 
 }
 
 /* all styling for booking information page*/
@@ -244,9 +242,9 @@ input {
 /*Fall of the city states page*/
 .tracks{
     text-align: center;
-    position: center;
 }
 
+/*for new hyperion artwork*/
 .toxic {
     width: 80%;
     background-repeat: no-repeat;
@@ -346,7 +344,6 @@ input {
 
     .booking-section .column{
         width: 80%;
-        position: center;
         margin-left: 1%;
         margin-right: 1%;
     }
