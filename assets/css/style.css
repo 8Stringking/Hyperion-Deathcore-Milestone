@@ -94,6 +94,10 @@ section {
     height: 300px;
 }
 
+iframe { 
+    border: none; 
+}
+
 /*styling for old Hyperion artwork*/
 .nibiru {
     width: 60%;

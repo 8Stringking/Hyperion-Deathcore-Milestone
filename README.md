@@ -92,7 +92,26 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
 <div>
 <img src="assets/testing-images/css-validation.jpg" width=80%> 
 </div>
+<p>Above is the CSS validation using <a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validation</a> No errors were found. </p>
+<h2>HTML Validation</h2>
+<h3>Home page</h3>
+<img src="assets/testing-images/index-validation.jpg" width=80%>
+<h3>Gallery</h3>
+<img src="assets/testing-images/gallery-validation.jpg" width=80%>
+<h3>Tours</h3>
+<img src="assets/testing-images/tours-validation.jpg" width=80%>
+<h3>Merch</h3>
+<img src="assets/testing-images/merch-validation.jpg" width=80%>
+<h3>Booking</h3>
+<img src="assets/testing-images/booking-validation.jpg" width=80%>
+<h3>The Nibiru Cataclysm</h3>
+<img src="assets/testing-images/nibiru-validation.jpg" width=80%>
+<h3>Fall Of The City States</h3>
+<img src="assets/testing-images/citystates-validation.jpg" width=80%>
+<p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>. The only errors that were found were in the youtube video links and the navigation bar using a attributes. The youtube frameborder issue has been resolved using this code within CSS (iframe { border: none;}). However I have not been able to find a solution for the nav bar problem as of yet as shown below, but does show the frameborder issue resolved.</p>
+<img src="assets/testing-images/frameborder-fix-validation.jpg" width=80%>
 
+<h1>Device Testing/Responsive Design Testing</h1>
 
 
 
