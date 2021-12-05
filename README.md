@@ -54,7 +54,7 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
     <img src="assets/wireframes/booking-wireframe.jpeg" width=30%>
     <img src="assets/wireframes/nibiru-wireframe.jpeg" width=30%>
     <img src="assets/wireframes/citystates-wireframe.jpeg" width=30%>
-    <img src="assets/css/images/space-logo-min.jpg" width=50%>
+    <img src="assets/css/images/space-logo-min.jpg" width=60%>
 </div>
     <div>
     <p>As you can see from the wireframes in the planning stage, the end result is pretty close, and the only reason this happened is due to the overall visual aspect of the page once I started coding the project. These changes were the track previews on the homepage, and the hyperion artwork, I didnt think it made sense having the track previews at the bottom below artwork and thought it was more user friendly to have the artwork almost act as a sub footer. Other than this i was really happy to be able to keep everything as is.
@@ -108,7 +108,7 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
 <img src="assets/testing-images/nibiru-validation.jpg" width=80%>
 <h3>Fall Of The City States</h3>
 <img src="assets/testing-images/citystates-validation.jpg" width=80%>
-<p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>. The only errors that were found were in the youtube video links and the navigation bar using a attributes. The youtube frameborder issue has been resolved using this code within CSS (iframe { border: none;}). However I have not been able to find a solution for the nav bar problem as of yet as shown below, but does show the frameborder issue resolved.</p>
+<p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>. The only errors that were found were in the youtube video links and the navigation bar using a attributes. The youtube frameborder issue has been resolved using this code within CSS (iframe { border: none;}). However I have not been able to find a solution for the nav bar problem as of yet as shown below, but does show the frameborder issue resolved for the home page of the site.</p>
 <img src="assets/testing-images/frameborder-fix-validation.jpg" width=80%>
 
 <h1>Device Testing/Responsive Design Testing</h1>
