@@ -131,10 +131,6 @@ h2 {
 
 
 /*social links in footer*/
-footer {
-    height: 100px;
-}
-
 .social-links {
     text-align: center;
 }
@@ -146,7 +142,8 @@ footer {
 .social-links i {
     font-size: 250%;
     margin: 1%;
-    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
     color: #ffffff;
 }
 
@@ -201,7 +198,7 @@ footer {
     margin-left: 10%;
     margin-top: 10%;
     max-width: 80%; 
-    background-image: url(/assets/css/images/bonus-detailed-art-blood-min.jpg); 
+    background-image: url("/assets/css/images/bonus-detailed-art-blood-min.jpg"); 
     max-width: 80%; 
     background-repeat: no-repeat;
     background-position: center;

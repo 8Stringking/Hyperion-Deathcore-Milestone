@@ -6,8 +6,7 @@ Welcome! to the Hyperion Uk Deathcore website! In this website we will shocase a
 
 The overall aim of this project is to promote and showcase our material to our fans and fans of Heavy Deathcore all around the world! While giving the fans the opportunity to see content here first, before being released on social media, and also show that the South-West is still a great source of Deathcore bands. 
 
-The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%2F8stringking.github.io%2FHyperion-Deathcore-Milestone%2F%3Ffbclid%3DIwAR14g6Y19lFZr20xzSli8VMOh-A9xMNTPTwoWbKOciMp0W2pY9M9J_AZq2s&h=AT2p7oU_AcW1i5Bs2j2DgakgIjVLB4J8VrF86WpSYNOv1xhVZ46n_Xs6H91KGmdzbkJOJEkbnU9OmN6zaZVJR5vFOlF8C3SaW1uOsAoF8rr8N-4FHvj-exAFocsn9LVmt7YP533lTjpSLquzrqU)
-
+The live website can be found [here]
 <h2>Live Site Images</h2>
 <div>
 <img src="assets/css/images/multi-devicecapture.jpg" width=40%>
