@@ -73,10 +73,23 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
 <hr>
 <h1>Methods for creating the site (html5 css etc)</h1>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HTML">HTML5</a> (was used for structuring and presenting content of the website)</li>
-<li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a> (used for the styling of the content)</li>
-<li><a href="https://fonts.google.com/">Google Fonts</a> (used for all the font styling within the project, fonts used were Cinzel, and Cinzel decorative with serif used for a backup)</li>
-<li><a href="https://www.bootstrapcdn.com/">Bootstrap</a> (used for the responsive code in the header for multiple devices)</li>
-<li><a href="https://fontawesome.com/">Font Awesome</a> (used for the social media icons)</li>
-<li><a href="https://www.w3schools.com/">W3schools</a> (this was used for the coding of the booking form into two columns)</li>
-</ul>
+    <li><a href="https://en.wikipedia.org/wiki/HTML">HTML5</a> (was used for structuring and presenting content of the website)</li>
+    <li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a> (used for the styling of the content)</li>
+    <li><a href="https://fonts.google.com/">Google Fonts</a> (used for all the font styling within the project, fonts used were Cinzel, and Cinzel decorative with serif used for a backup)</li>
+    <li><a href="https://www.bootstrapcdn.com/">Bootstrap</a> (used for the responsive code in the header for multiple devices)</li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a> (used for the social media icons)</li>
+    <li><a href="https://www.w3schools.com/">W3schools</a> (this was used for the coding of the booking form into two columns, and the nav bar logo)</li>
+    <li><a href="https://www.google.co.uk/chrome/?brand=FKPE&gclid=EAIaIQobChMI3q3IpujM9AIVk-vtCh2m9AWjEAAYASAAEgIG-_D_BwE&gclsrc=aw.ds">Chrome</a> (used to debug and test the source code using HTML5 and to test site responsiveness)</li>
+    <li><a href="https://github.com/">Github</a> (used to create the repository and store the projects code after pushed from Git)</li>
+    <li><a href="https://www.gitpod.io/">Gitpod</a> (used for the editing of code within the project for the site)</li>
+    <li><a href="https://placeit.net/">Placeit</a> (was used for the mockup image for multiple devices)</li>
+    <li><a href="https://validator.w3.org/">W3C Markup</a> (used for validating the html5 code)</li>
+    <li><a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validation</a> (used for validating the CSS code)</li>
+    </ul>
+<hr>
+<h1>Testing</h1>
+
+
+
+
+ 
