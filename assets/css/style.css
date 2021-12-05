@@ -83,13 +83,22 @@ section {
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
+    font-weight: 300;
+    letter-spacing: 1px;
 }
 
 /*youtube links for home page*/
 .youtube {
-    display: inline-block;
-    width: 300px;
-    height: 350px;
+    display: inline;
+    width: 400px;
+    height: 300px;
+}
+
+/*styling for old Hyperion artwork*/
+.nibiru {
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
 }
 
 /*styling for new Hyperion artwork/logo*/
@@ -100,12 +109,22 @@ section {
 }
 
 /*styling for header across all pages*/
-h1, h2 {
+h1 {
     font-family: 'Cinzel', serif;
+    font-weight: 300;
+    color: lightgrey;
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+}
+h2 {
+    font-family: 'Cinzel', serif;
+    font-weight: 300;
     color: lightgrey;
     text-align: center;
     letter-spacing: 4px;
 }
+
 
 /*social links in footer*/
 footer {
@@ -248,7 +267,7 @@ input {
 .toxic {
     width: 80%;
     background-repeat: no-repeat;
-    margin: 40px;
+    margin-left: 10%;
 }
 
 /*this section is all for media queries to make each page responsive to different devices*/
