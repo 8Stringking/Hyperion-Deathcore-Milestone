@@ -88,6 +88,10 @@ The live website can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%
     </ul>
 <hr>
 <h1>Testing</h1>
+<h2>CSS Validation</h2>
+<div>
+<img src="assets/testing-images/css-validation.jpg" width=80%> 
+</div>
 
 
 
