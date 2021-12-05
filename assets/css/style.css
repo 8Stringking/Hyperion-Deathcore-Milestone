@@ -51,6 +51,7 @@ nav a:hover {
     border-radius: 50%;
     overflow: hidden;
     margin-top: -6px;
+    margin-left: 20%;
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -69,8 +70,8 @@ nav a:hover {
 /*for page styling across all pages*/
 hr {
     border-top: rgb(88, 88, 88) 0.2px solid;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 /*styling for text across all pages*/
@@ -100,7 +101,8 @@ iframe {
 
 /*styling for old Hyperion artwork*/
 .nibiru {
-    width: 60%;
+    width: 50%;
+    margin-top: 10px;
     height: auto;
     margin: 0 auto;
 }
