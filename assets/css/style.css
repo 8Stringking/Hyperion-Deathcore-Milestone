@@ -310,6 +310,7 @@ input {
 
 /* For large to medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
+    /*for home page artwork*/
     .img-fluid {
         width: 65%;
         height: 200px;
@@ -326,12 +327,14 @@ input {
         width: 70%;
     }
 
+    /*for gallery section*/
     .gallery-photos {
         max-width: 80%;
         margin-left: 1%;
         margin-right: 1%;
     }
-    
+
+    /*for booking section*/
     .booking-section .column {
         width: 80%;
         margin-left: 1%;
@@ -339,36 +342,52 @@ input {
     }
 }
 
-/*For large to medium screens sizes from 576px wide and down */
-@media screen and (max-width: 576px) {
+/*For large to medium screens sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
 /*text for tour sections*/
     .text-block {
         font-size: small;
         font-weight: 300;
         line-height: 40px;
     }   
+
+    .column {
+        column-count: 1;
+    }
+
+    label {
+        width: 100px;
+    }
+
+    input {
+        width: 150px;
+ }
 }
 
 /* For small screens sizes from 360px wide and down */
 @media screen and (max-width: 360px) {
+
     /*home page responsive styling*/
     .img-fluid {
         width: 65%;
         margin: 0 auto;
         height: auto;
     }
+
     /*nibiru cataclysm artwork styling*/
     .nibiru {
         width: 80%;
         height: auto;
         margin: 0 auto;
-    }   
+    } 
+
     /*any new hyperion style artwork*/
     .new-artwork {
         width: 70%;
         height: auto;
     }
 
+    /*for tours page picture*/
     .container {
         width: 100%;
         position: relative;
@@ -385,12 +404,17 @@ input {
         line-height: 20px;
     }
 
+    .tour-text {
+        line-height: 20px;
+        margin: 20px;
+    }
+    /*for gallery section photos*/
     .gallery-photos {
         max-width: 300px;
         margin-left: 1%;
         margin-right: 1%;
     }
-
+    /*for booking section*/
     .booking-section .column{
         width: 65%;
         margin-left: 1%;
@@ -408,11 +432,6 @@ input {
     input {
         width: 150px;
  }
-
-    .tour-text {
-        line-height: 20px;
-        margin: 20px;
-    }
 }
 
 
