@@ -1,5 +1,5 @@
 <div>
-<img src="assets/css/images/cropped-cold-logo-min.jpg" width="50%">
+<img src="assets/images/cropped-cold-logo-min.jpg" width="50%">
 </div>
 
 Welcome! to the Hyperion Uk Deathcore website! In this website we will shocase all of our previous releases, such as The Nibiru Cataclysm and showcase all our future upcoming material such as The Fall Of The City States, and more to come in the future. Also this will be the place where you the fans can see even more material first! such as playthrough videos of certain aspects of the band, and gain a key insight into how we make our records what they are, and even show you how we make and mix our songs including STL Tonehub Presets!
@@ -9,10 +9,10 @@ The overall aim of this project is to promote and showcase our material to our f
 The live website can be found [here](https://8stringking.github.io/Hyperion-Deathcore-Milestone/)
 <h2>Live Site Images</h2>
 <div>
-<img src="assets/css/images/multi-devicecapture.jpg" width=40%>
-<img src="assets/css/images/pc-capture.jpg" width=50%>
-<img src="assets/css/images/gallery-bundle.jpg" width=40%>
-<img src="assets/css/images/live-site-footer.jpg" width=50%>
+<img src="assets/images/multi-devicecapture.jpg" width=40%>
+<img src="assets/images/pc-capture.jpg" width=50%>
+<img src="assets/images/gallery-bundle.jpg" width=40%>
+<img src="assets/images/live-site-footer.jpg" width=50%>
 </div>
 <h1>Index</h1>
 <ol>
@@ -94,21 +94,20 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <p>Above is the CSS validation using <a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validation</a> No errors were found. </p>
 <h2>HTML Validation</h2>
 <h3>Home page</h3>
-<img src="assets/testing-images/index-validation.jpg" width=80%>
+<img src="assets/testing-images/index-html-validation.jpg" width=80%>
 <h3>Gallery</h3>
-<img src="assets/testing-images/gallery-validation.jpg" width=80%>
+<img src="assets/testing-images/gallery-html-validation.jpg" width=80%>
 <h3>Tours</h3>
-<img src="assets/testing-images/tours-validation.jpg" width=80%>
+<img src="assets/testing-images/tours-html-validation.jpg" width=80%>
 <h3>Merch</h3>
-<img src="assets/testing-images/merch-validation.jpg" width=80%>
+<img src="assets/testing-images/merch-html-validation.jpg" width=80%>
 <h3>Booking</h3>
-<img src="assets/testing-images/booking-validation.jpg" width=80%>
+<img src="assets/testing-images/booking-html-validation.jpg" width=80%>
 <h3>The Nibiru Cataclysm</h3>
-<img src="assets/testing-images/nibiru-validation.jpg" width=80%>
+<img src="assets/testing-images/nibiru-html-validation.jpg" width=80%>
 <h3>Fall Of The City States</h3>
-<img src="assets/testing-images/citystates-validation.jpg" width=80%>
-<p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>. The only errors that were found were in the youtube video links and the navigation bar using a attributes. The youtube frameborder issue has been resolved using this code within CSS (iframe { border: none;}). However I have not been able to find a solution for the nav bar problem as of yet as shown below, but does show the frameborder issue resolved for the home page of the site.</p>
-<img src="assets/testing-images/frameborder-fix-validation.jpg" width=80%>
+<img src="assets/testing-images/citystates-html-validation.jpg" width=80%>
+<p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>
 
 <h1>Device Testing/Responsive Design Testing</h1>
 
