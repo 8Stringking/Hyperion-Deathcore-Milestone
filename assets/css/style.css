@@ -346,9 +346,9 @@ input {
 @media screen and (max-width: 600px) {
 /*text for tour sections*/
     .text-block {
-        font-size: small;
+        font-size: x-small;
         font-weight: 300;
-        line-height: 40px;
+        line-height: 25px;
     }   
 
     .column {
@@ -408,6 +408,7 @@ input {
         line-height: 20px;
         margin: 20px;
     }
+
     /*for gallery section photos*/
     .gallery-photos {
         max-width: 300px;
