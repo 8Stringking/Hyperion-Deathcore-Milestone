@@ -131,8 +131,8 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <img src="assets/testing-images/citystates-html-validation.jpg" width=80%>
 <p>Above is the validation for the HTML code using <a href="https://validator.w3.org/">W3C Markup</a>
 
-<h1>Device Testing/Responsive Design Testing</h1>
-<p>Below is images of the tours page on a number of different devices to test and show the website's responsive design. In order, the devices are</p> Galaxy S8,Iphone 5,
+<h1>Manual Device Testing/Responsive Design Testing</h1>
+<p>I have carried out manual testing on the following devices to test responsiveness, all links and videos and music tracks and features all worked correctly. The devices were tested on the following:</p>
 <ul>
 <li>Galaxy S8</li>
 <li>iphone 5</li>
@@ -141,14 +141,61 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <li>Tablets</li>
 <li>Laptops</li>
 </ul>
-<div>
-<img src="assets/testing-images/galaxys8test.jpg" width="30%">
-<img src="assets/testing-images/iphone5test.jpg" width="30%">
-<img src="assets/testing-images/pixel2test.jpg" width="30%">
-<img src="assets/testing-images/ipadtest.jpg">
-<img src="assets/testing-images/tablettest.jpg">
-<img src="assets/testing-images/laptoptest.jpg">
+<h2>Manual Testing</h2>
+<p>Below is the methods I used to manually test my website</p>
 
-</div>
+<table>
+<tr>
+<th>Test</th>
+<th>Outcome</th>
+<th>Result</th>
+</tr>
+<tr>
+<td>Navigation Bar</td>
+<td>Does the nav bar navigate to each page?, and indicates with an underline what page you are on?, does it change color when hovering?</td>
+<td>Pass</td>
+</tr>
+<tr>
+<td>Animated Logo</td>
+<td>Does the Hyperion logo animate upon page being loaded?</td>
+<td>Pass</td>
+</tr>
+<tr>
+<td>Youtube Video Links</td>
+<td>Do they successfully play on every page? Do videos autoplay upon page loading?</td>
+<td>Pass (does not autoplay upon loading)</td>
+</tr>
+<tr>
+<td>Audio Players</td>
+<td>Do they successfully play? Is auto play enabled upon loading? Do they work on every page?</td>
+<td>Pass (does not autoplay upon loading)</td>
+</tr>
+<tr>
+<td>Footer links</td>
+<td>Do links successfully open in new tabs?</td>
+<td>Pass</td>
+</tr>
+<tr>
+<td>Booking Form</td>
+<td>Does the form successfully submit data? Does the clock work?</td>
+<td>Pass</td>
+</tr>
+<tr>
+<td>Merch Picture Links</td>
+<td>Do picture links take you to relavant site? are those sites in the correct country?Do they open in a new tab?</td>
+<td>Pass</td>
+</tr>
+<tr>
+<td>Responsive Test</td>
+<td>Any issues with responsive testing? do all links,videos,animations,forms work on all devices?</td>
+<td>Pass, No Issues Discovered</td>
+</tr>
+<tr>
+<td>Background Contrast Issues</td>
+<td>Is any content difficult to see due to background color or content color?</td>
+<td>Pass (no issues)</td>
+</tr>
+</table>
+<p>I used <a href="http://ami.responsivedesign.is/">Am I Responsive</a> to check my website is responsive on all devices 
+<img src="assets/testing-images/site-responsiveness-test.jpg" width=80%></p>
 
- 
