@@ -31,7 +31,6 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
     <li>Bugs</li>
     <li>Future plans and goals for the website</li>
     <li>Deployment</li>
-    <li>Refrences </li>
 </ol>
 <hr>
 
@@ -85,7 +84,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <img src="assets/website-walkthrough/citystates2.jpg" width=45%>
 </div>
 <h1>Website Features</h1>
-<p>The Hyperion website includes a few features including, an animated nav bar, links directly for youtube videos, a fully functional form section, functional audio players for all new tracks and links to merch stores and the bands facebook and youtube channels. Unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.</p>
+<p>The Hyperion website includes a few features including, an animated nav bar with hover a feature, and underline feature to indicate which page you are on, links directly for youtube videos, a fully functional form section, functional audio players for all new tracks and links to merch stores and the bands facebook and youtube channels. Unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.</p>
 <p>The youtube links are done as such that they will play on the same webpage so that they can keep scrolling along that page as they listen to music (facebook/instagram/youtube currently cannot support this function) and the user can immerse themselves within all content on that page</p>
 <p>The form section is alot more detailed than most, this is mainly due to in my 10 years playing in bands, and booking shows, this is the minimal information needed for a reliable booking, however we have made sure this is even more accurate by adding a clendar, and a clock for dates and times, and made sure it is viewable on all devices, and the proof it is functional is below.</p>
 <img src="assets/testing-images/form-data.jpg" width=45%>
@@ -198,5 +197,35 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 </table>
 <p>I used <a href="http://ami.responsivedesign.is/">Am I Responsive</a> to check my website is responsive on all devices 
 <img src="assets/testing-images/site-responsiveness-test.jpg" width=80%></p>
+
+<h2>Expectations</h2>
+<p>From design concept i think the website delivers on the expectations for a fully functional, meaningful and user friendly website for fans of Hyperion, and is consistent across all devices.</p>
+<hr>
+<h1>Bugs</h1>
+<p>Currently on the website, there is only 1 bug that i have found. That is on the booking page the background image doesnt load on a mobile once pushed to gihub, although its a problem i am still actively trying to fix. The image has been put in via css as a background image, as it was the best way i could get all the elements on the page to display correctly. However this isnt detrimental to the page as the form is still clearly displayed and functional on the page.</p>
+<hr>
+<h1>Historical Bugs and Issues Resolved</h1>
+<p>Initially the Nav bar was flagging as an error because the logo was placed in the middle of a UL as an anchor, this was resolved by using 2 seperate UL and placing the anchored image between the lists.</p>
+
+<p>Another bug was the frameborder on the youtube video links causing an error in the html, this was fixed by using css to set the frameborder to none using the following code: iframe {
+    border: none; }</p>
+
+<p>Image sizing on the index page and the tours page was a big challenge, the pictures were displaying far too large on all devices, this was solved resizing the images to a much smaller pixel size so they could be used across all devices.</p>
+
+<h1>Future plans and goals for the website</h1>
+<p>The main plan for the future development of this website is to expand the page "Fall of the city states". Once the new EP is done, I want to upload all of the guitar presets used in recording the EP for the fans to download, including Rhythm, Lead, and Bass presets with samples. Also adding the individual stems for the tracks for people to practise mixing themselves. This is something not alot of bands do but fans wish they did, so i believe this will be a fantastic edition to the website, again increasing the feel good experience of the user.</p>
+<hr>
+<h1>Deployment</h1>
+<p>The site was deployed to GitHub following these steps:
+<ul>
+<li>Create Github Account</li>
+<li>Create a new repository</li>
+<li>Click on settings on the navigation bar under the repository title</li>
+<li>Select pages on the left menu bar</li>
+<li>Click on the master branch and save</li>
+<li>This has now created the link to your live website</li>
+<li>Live website link - https://8stringking.github.io/Hyperion-Deathcore-Milestone/</li>
+
+
 
 
