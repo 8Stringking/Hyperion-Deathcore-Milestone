@@ -48,7 +48,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <p>They can also expect UN-RELEASED previews of our next EP 'Fall of the city states', bands dont typically do this, however we believe that the ability to listen to new songs not released anywhere else is a VITAL part of drawing new fans to us and the website and incredibly exciting for fans also.</p>
 <hr>
 <h2>Web design</h2>
-<hr>
+
 <p>The web design of this page has been designed to give the user a simple and meaningful and functional experience, while being relevant towards the fan base hyperion is targeting (fans of heavy music/deathcore). This has been done by making the website quite dark, and having the content very light, causing no contrast issues for the user. The reason behind keeping it simple as stated above is usually fans would scroll through social media pages which arnt always as easy to navigate.</p>
 
 <p>The home page has been used to drive the released album (the nibiru cataclysm) while giving more information on the band and having more of an overview of future material. The gallery page we've used as a timeline, hence the picture layout. The most recent being first and the older pictures last, letting fans see the most recent content first! The tours page weve put the nibiru cataclysm artwork in the background as this is the music mostly the fans would be hearing live. Inkeeping with a simple functional website, the tours page we wanted to simply contain links and use their logos that the fans know most in there countries. We know people are very picky about where they get their merch so laying it out in this fashion we know will be very useful for the user. The booking section does contain alot of sections to fill in, however being a musician for over 12 years i know that this is the information needed to reliably book a band. The nibiru cataclysm page again is kept simple using the eye catching artwork to draw in the user, and includes the full album stream from our youtube channel for instant access to that album. And lastly the Fall of the city states page simply includes new teasers and some of the new artwork that accompanies the new release. With the announcement on the homepage i felt no more was needed to explain this section and let the content stand out as much as possible again for a better user experience. </p>
@@ -70,7 +70,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
     </div>
 <hr>
 <h1>Website Walkthrough</h1>
-<hr>
+
 <div>
 <img src="assets/website-walkthrough/home-1.jpg" width=45%>
 <img src="assets/website-walkthrough/home2.jpg" width=45%>
@@ -91,7 +91,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <img src="assets/testing-images/form-data.jpg" width=45%>
 <p>Audio players are used throughout the site with the ability to scroll within a track, this has been done for releasing unreleased content, especially if you want to re-listen to a particular section within a song, and again so the user can continue to scroll within that page while listening to our tracks</p>
 <p>The site contains two forms of clickable links. These are for the merch sites, using pictures for links as we know the target audience will recognise these famous logos and can choose where to get their merch from, this is an important part of driving the sales of merch. These days we know that people dont tend to spend too long viewing anything online at a time so by using these logos helps people make their choice faster and making their experience even better. The second is obviously the social media links, which weve used icons that will load up in seperate tabs so the user can stay where they are on the site.</p>
-<hr>
+
 <h1>Methods for creating the site (html5 css etc)</h1>
 <ul>
     <li><a href="https://en.wikipedia.org/wiki/HTML">HTML5</a> (was used for structuring and presenting content of the website)</li>
@@ -107,7 +107,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
     <li><a href="https://validator.w3.org/">W3C Markup</a> (used for validating the html5 code)</li>
     <li><a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validation</a> (used for validating the CSS code)</li>
     </ul>
-<hr>
+
 <h1>Testing</h1>
 <h2>CSS Validation</h2>
 <div>
@@ -198,4 +198,5 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 </table>
 <p>I used <a href="http://ami.responsivedesign.is/">Am I Responsive</a> to check my website is responsive on all devices 
 <img src="assets/testing-images/site-responsiveness-test.jpg" width=80%></p>
+
 
