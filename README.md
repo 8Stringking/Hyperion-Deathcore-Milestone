@@ -105,6 +105,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
     <li><a href="https://placeit.net/">Placeit</a> (was used for the mockup image for multiple devices)</li>
     <li><a href="https://validator.w3.org/">W3C Markup</a> (used for validating the html5 code)</li>
     <li><a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validation</a> (used for validating the CSS code)</li>
+    <li><a href="https://codeinstitute.net/">Code Institute</a> (this is where i got the idea for animating the main logo in the nav bar)</li>
     </ul>
 
 <h1>Testing</h1>

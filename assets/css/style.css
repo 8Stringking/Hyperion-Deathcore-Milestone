@@ -50,7 +50,7 @@ nav a:hover {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-/* Creates the level of zoom for header logo image */
+/* Creates the level of zoom for header logo image, idea came from code institute love running project*/
 @keyframes hero-zoom {
     from {
         transform: scale(1);
