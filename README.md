@@ -14,7 +14,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <img src="assets/images/gallery-bundle.jpg" width=40%>
 <img src="assets/images/live-site-footer.jpg" width=50%>
 </div>
-<h1>Index</h1>
+<h1>Contents</h1>
 <ol>
     <li>User Experience</li>
     <ul>
@@ -84,7 +84,15 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
 <img src="assets/website-walkthrough/citystates2.jpg" width=45%>
 </div>
 <h1>Website Features</h1>
-<p>The Hyperion website includes a few features including, an animated nav bar with hover a feature, and underline feature to indicate which page you are on, links directly for youtube videos, a fully functional form section, functional audio players for all new tracks and links to merch stores and the bands facebook and youtube channels. Unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.</p>
+<ul>
+<li>Animated Nav Bar, with hover feature/underline feature for page indication <img src="assets/website-walkthrough/nav-bar.jpg" width=35%></li>
+<li>Youtube video links<img src="assets/website-walkthrough/youtube-links.jpg" width=35%></li></li>
+<li>Audio players <img src="assets/website-walkthrough/audio-players.jpg" width=40%></li>
+<li>Booking form <img src="assets/website-walkthrough/booking-form.jpg" width=30%></li>
+<li>Clickable picture links which opens in new tab <img src="assets/website-walkthrough/clickable-links.jpg" width=30%></li>
+<li>Social Media links which opens in new tab <img src="assets/website-walkthrough/socials.jpg" width=50%></li>
+</ul>
+<p>The Hyperion website unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.</p>
 <p>The youtube links are done as such that they will play on the same webpage so that they can keep scrolling along that page as they listen to music (facebook/instagram/youtube currently cannot support this function) and the user can immerse themselves within all content on that page</p>
 <p>The form section is alot more detailed than most, this is mainly due to in my 10 years playing in bands, and booking shows, this is the minimal information needed for a reliable booking, however we have made sure this is even more accurate by adding a clendar, and a clock for dates and times, and made sure it is viewable on all devices, and the proof it is functional is below.</p>
 <img src="assets/testing-images/form-data.jpg" width=45%>
