@@ -177,7 +177,6 @@ h2 {
     margin-left: 10%;
     margin-top: 10%;
     max-width: 80%;
-    background-image:url("../../assets/images/bonus-detailed-art-blood-min.jpg");
     max-width: 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -204,8 +203,8 @@ label {
     padding-left: 5%;
 }
 input {
-    background-color: black;
-    color: #fff;
+    background-color: white;
+    color: black;
     width: 125px;
 }
 /*styling for book button including a hover feature with a color change*/
@@ -217,7 +216,7 @@ input {
     font-family: 'Cinzel', serif;
     font-size: 100%;
     background-color: #000000;
-    color: #ff0000;
+    color: white;
     display: block;
 }
 .book-button:hover {
