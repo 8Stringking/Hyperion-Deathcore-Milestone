@@ -19,6 +19,7 @@ The live website can be found [here](https://8stringking.github.io/Hyperion-Deat
     
 - What this project is and why
 - Target audience
+- User Stories
 - What the fans can expect
 - Web Design
 - Wire frames
@@ -38,6 +39,8 @@ Welcome to the Hyperion website. This website is the hub for Hyperion content be
 # Target Audience
 
 Weve tailored the design of this website for the fans of heavy music from Deathcore to Djent, and between the ages of 17 to 40 years old which is why the website is darker than the average website to cater to these tastes, and this has been done to capitilize on our eye catching artwork and to really make the content stand out, to draw in people that typically wouldnt like this style of music, as this is the purpose of all band social media and websites is to attract people far and wide and from all over the globe, as hyperion has done by having fans currently all the way from Indonesia and more.
+
+# User Stories
 
 # What the fans can expect
 
@@ -82,7 +85,7 @@ The home page has been used to drive the released album (the nibiru cataclysm) w
 <img src="assets/website-walkthrough/citystates2.jpg" width=45%>
 </div>
 
-# Website Features
+# 2.Website Features
 
 - Animated Nav Bar, with hover feature/underline feature for page indication <img src="assets/website-walkthrough/nav-bar.jpg" width=35%>
 - Youtube video links <img src="assets/website-walkthrough/youtube-links.jpg" width=35%>
@@ -102,7 +105,7 @@ Audio players are used throughout the site with the ability to scroll within a t
 
 The site contains two forms of clickable links. These are for the merch sites, using pictures for links as we know the target audience will recognise these famous logos and can choose where to get their merch from, this is an important part of driving the sales of merch. These days we know that people dont tend to spend too long viewing anything online at a time so by using these logos helps people make their choice faster and making their experience even better. The second is obviously the social media links, which weve used icons that will load up in seperate tabs so the user can stay where they are on the site.
 
-# Methods for creating the site (html5 css etc)
+# 3.Methods for creating the site (html5 css etc)
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML) (was used for structuring and presenting content of the website)
 * [CSS](https://en.wikipedia.org/wiki/CSS) (used for the styling of the content)
@@ -118,7 +121,7 @@ The site contains two forms of clickable links. These are for the merch sites, u
 * [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) (used for validating the CSS code)
 * [Code Institute](https://codeinstitute.net/) (this is where i got the idea for animating the main logo in the nav bar)
 
-# Testing
+# 4.Testing
 
 ## CSS Validation
 
@@ -171,58 +174,17 @@ I have carried out manual testing on the following devices to test responsivenes
 
 Below is the methods I used to manually test my website
 
-<table>
-<tr>
-<th>Test</th>
-<th>Outcome</th>
-<th>Result</th>
-</tr>
-<tr>
-<td>Navigation Bar</td>
-<td>Does the nav bar navigate to each page?, and indicates with an underline what page you are on?, does it change color when hovering?</td>
-<td>Pass</td>
-</tr>
-<tr>
-<td>Animated Logo</td>
-<td>Does the Hyperion logo animate upon page being loaded?</td>
-<td>Pass</td>
-</tr>
-<tr>
-<td>Youtube Video Links</td>
-<td>Do they successfully play on every page? Do videos autoplay upon page loading?</td>
-<td>Pass (does not autoplay upon loading)</td>
-</tr>
-<tr>
-<td>Audio Players</td>
-<td>Do they successfully play? Is auto play enabled upon loading? Do they work on every page?</td>
-<td>Pass (does not autoplay upon loading)</td>
-</tr>
-<tr>
-<td>Footer links</td>
-<td>Do links successfully open in new tabs?</td>
-<td>Pass</td>
-</tr>
-<tr>
-<td>Booking Form</td>
-<td>Does the form successfully submit data? Does the clock work?</td>
-<td>Pass</td>
-</tr>
-<tr>
-<td>Merch Picture Links</td>
-<td>Do picture links take you to relavant site? are those sites in the correct country?Do they open in a new tab?</td>
-<td>Pass</td>
-</tr>
-<tr>
-<td>Responsive Test</td>
-<td>Any issues with responsive testing? do all links,videos,animations,forms work on all devices?</td>
-<td>Pass, No Issues Discovered</td>
-</tr>
-<tr>
-<td>Background Contrast Issues</td>
-<td>Is any content difficult to see due to background color or content color?</td>
-<td>Pass (no issues)</td>
-</tr>
-</table>
+Test            | Outcome                          | Result
+--------------- | -------------------------------- | ------------
+Navigation Bar  | Does the nav bar navigate to each page?, and indicates with an underline what page you are on?, does it change color when hovering? | Pass
+Animated Logo | Does the Hyperion logo animate upon page being loaded? | Pass
+Youtube Video Links | Do they successfully play on every page? Do videos autoplay upon page loading? | Pass (does not autoplay upon loading)
+Audio Players | Do they successfully play? Is auto play enabled upon loading? Do they work on every page? | Pass (does not autoplay upon loading)
+Footer links | Do links successfully open in new tabs? | Pass
+Booking Form | Does the form successfully submit data? Does the clock work? | Pass
+Merch Picture Links | Do picture links take you to relavant site? are those sites in the correct country?Do they open in a new tab? | Pass
+Responsive Test | Any issues with responsive testing? do all links,videos,animations,forms work on all devices? | Pass, No Issues Discovered
+Background Contrast Issues | Is any content difficult to see due to background color or content color? | Pass (no issues)
 
 I used [Am I Responsive](http://ami.responsivedesign.is/) to check my website is responsive on all devices
 
@@ -232,7 +194,7 @@ I used [Am I Responsive](http://ami.responsivedesign.is/) to check my website is
 
 From design concept i think the website delivers on the expectations for a fully functional, meaningful and user friendly website for fans of Hyperion, and is consistent across all devices.
 
-# Bugs
+# 5.Bugs
 
 Currently on the website, there is only 1 bug that i have found. That is on the booking page the background image doesnt load on a mobile once pushed to gihub, although its a problem i am still actively trying to fix. The image has been put in via css as a background image, as it was the best way i could get all the elements on the page to display correctly. However this isnt detrimental to the page as the form is still clearly displayed and functional on the page.
 
@@ -245,11 +207,11 @@ Another bug was the frameborder on the youtube video links causing an error in t
 
 Image sizing on the index page and the tours page was a big challenge, the pictures were displaying far too large on all devices, this was solved resizing the images to a much smaller pixel size so they could be used across all devices.
 
-# Future plans and goals for the website
+# 6.Future plans and goals for the website
 
 The main plan for the future development of this website is to expand the page "Fall of the city states". Once the new EP is done, I want to upload all of the guitar presets used in recording the EP for the fans to download, including Rhythm, Lead, and Bass presets with samples. Also adding the individual stems for the tracks for people to practise mixing themselves. This is something not alot of bands do but fans wish they did, so i believe this will be a fantastic edition to the website, again increasing the feel good experience of the user.
 
-# Deployment
+# 7.Deployment
 
 The site was deployed to GitHub following these steps:
 
