@@ -6,12 +6,18 @@ The overall aim of this project is to promote and showcase our material to our f
 
 The live website can be found [here](https://8stringking.github.io/Hyperion-Deathcore-Milestone/)
 # Live Site Images
-<div>
-<img src="assets/images/multi-devicecapture.jpg" width=40%>
-<img src="assets/images/pc-capture.jpg" width=50%>
-<img src="assets/images/gallery-bundle.jpg" width=40%>
-<img src="assets/images/live-site-footer.jpg" width=50%>
-</div>
+
+![header](assets/images/headerresized2.jpg) 
+
+![header](assets/images/youtubelinksresized.jpg)
+
+![gallery](assets/images/galleryresized.jpg)
+
+![merch](assets/images/merchresized.jpg)
+
+![tours](assets/images/toursresized.jpg)
+
+![citystates](assets/images/citystatesresized.jpg) 
 
 # Contents
 
@@ -42,6 +48,28 @@ Weve tailored the design of this website for the fans of heavy music from Deathc
 
 # User Stories
 
+## 1.The Band
+
+- As a fan or potential fan, I want to know who is in the band
+- As a fan or potential fan, I want to know What can I expect from the band musically and their style
+
+## 2.Disography/ Back Catalogue
+
+- As a fan or potential fan, I want to be able to view existing material of the band
+- As a fan or potential fan, I want the content to be easy to find and access throughout the website
+
+## 3.New Material
+
+- As a fan or potential fan, I want to be kept up to date with new music the band is working on
+- As a fan or potential fan, I want to know what shows/tours the band is doing in the future
+
+## 4.Social Links
+
+- As a fan or potential fan, I want to be able to easily access the bands social media
+
+## 5.Booking Service
+
+- As a potential customer/organizer/promoter and fan, I want to be able to book the band for an event
 # What the fans can expect
 
 The Fans can expect a dark, simple, easy to navigate website packed full of all of our content in one place. No more scrolling through albums on facebook, or never ending scrolling on instagram, its all here and simple to navigate from page to page with a Navigation bar that we believe is stylish and is slightly bigger than your average to give the user the ease of accessing everything instantly.
