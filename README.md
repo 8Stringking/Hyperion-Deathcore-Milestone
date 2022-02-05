@@ -46,7 +46,9 @@ Welcome to the Hyperion website. This website is the hub for Hyperion content be
 
 Weve tailored the design of this website for the fans of heavy music from Deathcore to Djent, and between the ages of 17 to 40 years old which is why the website is darker than the average website to cater to these tastes, and this has been done to capitilize on our eye catching artwork and to really make the content stand out, to draw in people that typically wouldnt like this style of music, as this is the purpose of all band social media and websites is to attract people far and wide and from all over the globe, as hyperion has done by having fans currently all the way from Indonesia and more.
 
-# User Stories
+# User Stories 
+
+### Pictures for relating to the User Stories can be found in the website walkthrough
 
 ## 1.The Band
 
