@@ -72,6 +72,11 @@ Weve tailored the design of this website for the fans of heavy music from Deathc
 ## 5.Booking Service
 
 - As a potential customer/organizer/promoter and fan, I want to be able to book the band for an event
+
+## 6.Merch
+
+- As a fan or potential fan, I want to be able to easily access the website in my country that that bands merch is sold
+
 # What the fans can expect
 
 The Fans can expect a dark, simple, easy to navigate website packed full of all of our content in one place. No more scrolling through albums on facebook, or never ending scrolling on instagram, its all here and simple to navigate from page to page with a Navigation bar that we believe is stylish and is slightly bigger than your average to give the user the ease of accessing everything instantly.
@@ -85,51 +90,89 @@ The web design of this page has been designed to give the user a simple and mean
 The home page has been used to drive the released album (the nibiru cataclysm) while giving more information on the band and having more of an overview of future material. The gallery page we've used as a timeline, hence the picture layout. The most recent being first and the older pictures last, letting fans see the most recent content first! The tours page weve put the nibiru cataclysm artwork in the background as this is the music mostly the fans would be hearing live. Inkeeping with a simple functional website, the tours page we wanted to simply contain links and use their logos that the fans know most in there countries. We know people are very picky about where they get their merch so laying it out in this fashion we know will be very useful for the user. The booking section does contain alot of sections to fill in, however being a musician for over 12 years i know that this is the information needed to reliably book a band. The nibiru cataclysm page again is kept simple using the eye catching artwork to draw in the user, and includes the full album stream from our youtube channel for instant access to that album. And lastly the Fall of the city states page simply includes new teasers and some of the new artwork that accompanies the new release. With the announcement on the homepage i felt no more was needed to explain this section and let the content stand out as much as possible again for a better user experience. 
 
 # Wire Frames
-<div>
-    <img src="assets/wireframes/index-home-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/gallery-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/tours-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/merch-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/booking-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/nibiru-wireframe.jpeg" width=30%>
-    <img src="assets/wireframes/citystates-wireframe.jpeg" width=30%>
-    <img src="assets/images/space-logo-min.jpg" width=60%>
-</div>
-    <div>
-    As you can see from the wireframes in the planning stage, the end result is pretty close, and the only reason this happened is due to the overall visual aspect of the page once I started coding the project. These changes were the track previews on the homepage, and the hyperion artwork, I didnt think it made sense having the track previews at the bottom below artwork and thought it was more user friendly to have the artwork almost act as a sub footer. Other than this i was really happy to be able to keep everything as is.
-    </div>
+
+![Home](assets/wireframes/index-home-wireframe.jpeg)
+
+![Gallery](assets/wireframes/gallery-wireframe.jpeg) 
+
+![Tours](assets/wireframes/tours-wireframe.jpeg) 
+
+![Merch](assets/wireframes/merch-wireframe.jpeg)
+
+![Booking](assets/wireframes/booking-wireframe.jpeg)
+
+![Nibiru](assets/wireframes/nibiru-wireframe.jpeg)
+
+![CityStates](assets/wireframes/citystates-wireframe.jpeg)
+    
+![Logo](assets/images/space-logo-min.jpg)    
+
+As you can see from the wireframes in the planning stage, the end result is pretty close, and the only reason this happened is due to the overall visual aspect of the page once I started coding the project. These changes were the track previews on the homepage, and the hyperion artwork, I didnt think it made sense having the track previews at the bottom below artwork and thought it was more user friendly to have the artwork almost act as a sub footer. Other than this i was really happy to be able to keep everything as is.
+   
 
 # Website Walkthrough
 
-<div>
-<img src="assets/website-walkthrough/home-1.jpg" width=45%>
-<img src="assets/website-walkthrough/home2.jpg" width=45%>
-<img src="assets/website-walkthrough/home3.jpg" width=45%>
-<img src="assets/website-walkthrough/home4.jpg" width=45%>
-<img src="assets/website-walkthrough/gallery1.jpg" width=45%>
-<img src="assets/website-walkthrough/tours1.jpg" width=45%>
-<img src="assets/website-walkthrough/merch.jpg" width=45%>
-<img src="assets/website-walkthrough/booking.jpg" width=45%>
-<img src="assets/website-walkthrough/nibiru.jpg" width=45%>
-<img src="assets/website-walkthrough/citystates1.jpg" width=45%>
-<img src="assets/website-walkthrough/citystates2.jpg" width=45%>
-</div>
+![Home1](assets/website-walkthrough/home-1.jpg)
+- This relates to User Story 1. The Band 
+
+![Home2](assets/website-walkthrough/home2.jpg)
+- This relates to User Story 1. The Band/ Story 2. Disography/ Back Catalogue
+
+![Home3](assets/website-walkthrough/home3.jpg)
+- This relates to User Story 3. New Material
+
+![Home4](assets/website-walkthrough/home4.jpg)
+- This relates to User Story 4.Social Links
+
+![Gallery](assets/website-walkthrough/gallery1.jpg)
+- This relates to User Story 1. The Band 
+
+![Tours](assets/website-walkthrough/tours1.jpg)
+- This relates to User Story 3. New Material
+
+![Merch](assets/website-walkthrough/merch.jpg)
+- This relates to User Story 6. Merch
+
+![BookingForm](assets/images/bookingformwhite.jpg)
+- This relates to User Story 5. Booking Service
+
+![Nibiru](assets/website-walkthrough/nibiru.jpg)
+- This relates to User Story 2.Disography/ Back Catalogue
+
+![Citystates1](assets/website-walkthrough/citystates1.jpg)
+- This relates to User Story 3. New Material
+
+![Citystates2](assets/website-walkthrough/citystates2.jpg)
+- This relates to User Story 3. New Material
+
 
 # 2.Website Features
 
-- Animated Nav Bar, with hover feature/underline feature for page indication <img src="assets/website-walkthrough/nav-bar.jpg" width=35%>
-- Youtube video links <img src="assets/website-walkthrough/youtube-links.jpg" width=35%>
-- Audio players <img src="assets/website-walkthrough/audio-players.jpg" width=40%>
-- Booking form <img src="assets/website-walkthrough/booking-form.jpg" width=30%>
-- Clickable picture links which opens in new tab <img src="assets/website-walkthrough/clickable-links.jpg" width=30%>
-- Social Media links which opens in new tab <img src="assets/website-walkthrough/socials.jpg" width=50%>
+- Animated Nav Bar, with hover feature/underline feature for page indication 
+![NavBar](assets/website-walkthrough/nav-bar.jpg)
+
+- Youtube video links 
+![YoutubeLinks](assets/website-walkthrough/youtube-links.jpg)
+
+- Audio players 
+![Audio Players](assets/website-walkthrough/audio-players.jpg)
+
+- Booking form 
+![BookingForm](assets/images/bookingformwhite.jpg)
+
+- Clickable picture links which opens in new tab 
+![PictureLinks](assets/website-walkthrough/clickable-links.jpg)
+
+- Social Media links which opens in new tab
+![SocialLinks](assets/website-walkthrough/socials.jpg)
 
 The Hyperion website unlike facebook and instagram and youtube (which are the primary source for fans interacting with a band and seeing their content) this website has been designed to have everyone in one place for the user.
 
 The youtube links are done as such that they will play on the same webpage so that they can keep scrolling along that page as they listen to music (facebook/instagram/youtube currently cannot support this function) and the user can immerse themselves within all content on that page
 
 The form section is alot more detailed than most, this is mainly due to in my 10 years playing in bands, and booking shows, this is the minimal information needed for a reliable booking, however we have made sure this is even more accurate by adding a clendar, and a clock for dates and times, and made sure it is viewable on all devices, and the proof it is functional is below.
-<img src="assets/testing-images/form-data.jpg" width=45%>
+
+![FormData](assets/testing-images/form-data.jpg)
 
 Audio players are used throughout the site with the ability to scroll within a track, this has been done for releasing unreleased content, especially if you want to re-listen to a particular section within a song, and again so the user can continue to scroll within that page while listening to our tracks
 
@@ -154,9 +197,8 @@ The site contains two forms of clickable links. These are for the merch sites, u
 # 4.Testing
 
 ## CSS Validation
-
-<img src="assets/testing-images/css-validation.jpg" width=80%> 
-
+ 
+![CSSValidation](assets/testing-images/css-validation.jpg)
 
 Above is the CSS validation using 
 * [Jigsaw Validation](https://jigsaw.w3.org/css-validator/) 
@@ -166,25 +208,33 @@ No errors were found.
 ## HTML Validation
 
 ### Home page
-<img src="assets/testing-images/index-html-validation.jpg" width=80%>
+
+![IndexValidation](assets/testing-images/index-html-validation.jpg)
 
 ### Gallery
-<img src="assets/testing-images/gallery-html-validation.jpg" width=80%>
+
+![GalleryValidation](assets/testing-images/gallery-html-validation.jpg)
 
 ### Tours
-<img src="assets/testing-images/tours-html-validation.jpg" width=80%>
+
+![ToursValidation](assets/testing-images/tours-html-validation.jpg)
 
 ### Merch
-<img src="assets/testing-images/merch-html-validation.jpg" width=80%>
+
+![MerchValidation](assets/testing-images/merch-html-validation.jpg)
 
 ### Booking
-<img src="assets/testing-images/booking-html-validation.jpg" width=80%>
+
+![BookingValidation](assets/testing-images/booking-html-validation.jpg)
 
 ### The Nibiru Cataclysm
-<img src="assets/testing-images/nibiru-html-validation.jpg" width=80%>
+
+![NibiruValidation](assets/testing-images/nibiru-html-validation.jpg)
 
 ### Fall Of The City States
-<img src="assets/testing-images/citystates-html-validation.jpg" width=80%>
+
+![CitystatesValidation](assets/testing-images/citystates-html-validation.jpg)
+
 
 Above is the validation for the HTML code using 
 * [W3C Markup](https://validator.w3.org/)
@@ -218,7 +268,7 @@ Background Contrast Issues | Is any content difficult to see due to background c
 
 I used [Am I Responsive](http://ami.responsivedesign.is/) to check my website is responsive on all devices
 
-<img src="assets/testing-images/site-responsiveness-test.jpg" width=80%></p>
+![Responsiveness](assets/testing-images/site-responsiveness-test.jpg)
 
 ## Expectations
 
